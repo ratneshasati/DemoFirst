@@ -9,4 +9,3 @@ def divide(x,y):
 def square(x,y):
 
 
-print "commit 2 cal 1"
